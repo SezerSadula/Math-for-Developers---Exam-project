@@ -6,9 +6,9 @@ The project will explore the **PageRank algorithm**, which is used by search eng
 ### Objectives
 - Understand the mathematical foundations of PageRank.
 - Implement PageRank in Python.
-- Visualize the PageRank scores of nodes in a graph.
+- Visualize the PageRank scores.
 
-#### Sources
+### Sources
 - www.wikipedia.com
-- LLMs
+- LLMs (ChatGPT, Gemini)
 - www.overleaf.com
