@@ -9,7 +9,6 @@ The project will explore the **PageRank algorithm**, which is used by search eng
 - Visualize the PageRank scores.
 
 ### Sources
-- www.stackoverflow.com
+- www.overleaf.com
 - www.wikipedia.com
 - LLMs (ChatGPT, Gemini)
-- www.overleaf.com
